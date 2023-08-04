@@ -1,9 +1,9 @@
 ## Introduction
 
-## Initial Scan
+## Scan Before Hardening
 <b>Vulnerabilities</b>
 
-## After Implementation
+## Scan After Hardening
 <b>Vulnerabilities</b>
 
 ## Conclusion
