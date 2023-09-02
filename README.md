@@ -5,11 +5,15 @@
 <b>Vulnerabilities</b>
 <br>Here we can see a very vulnerable system specifically because of an outdated version of Firefox and an outdated Windows OS.</br>
 <br>![image](https://github.com/ChrisHaugaard/NessusVM/assets/140214520/5f33dfd3-a961-4954-88fb-6a13c59fc45d)</br>
-<br>Critical: 6</br>
-<br>High:     3</br>
-<br>Meduium:  1</br>
-<br>Low:      0</br>
-<br>Info:   107</br>
+<br>
+| Metric                   | Count
+| ------------------------ | -----
+| Critical                 | 6
+| High                     | 3
+| Medium                   | 1
+| Low                      | 0
+| Info                     | 107
+</br>
 
 <b>Remediations</b>
 <br>We can see there are 2 recommended remediations for this VM.</br>
